@@ -1,3 +1,4 @@
+criaCartao(
 'arte marcial',
     'O que é kung fu?',
     'O kung fu é uma arte marcial'
