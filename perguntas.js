@@ -1,23 +1,22 @@
-criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+'arte marcial',
+    'O que é kung fu?',
+    'O kung fu é uma arte marcial'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'arte marcial',
+    'para que serve o kung fu?',
+    'para alto defesa'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'arte marcial',
+    'onde nasceu o kung fu?',
+    'na china'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'arte marcial',
+    'como se diz "ola em chines?',
+    'Ola em chines é Nǐ hǎo(你好)'
 )
